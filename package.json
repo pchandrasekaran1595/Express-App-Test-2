@@ -1,0 +1,15 @@
+{
+  "name": "express-app-test-2",
+  "version": "1.0.0",
+  "description": "Simple Express Application",
+  "main": "main.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "author": "Prashanth C",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.2"
+  }
+}
